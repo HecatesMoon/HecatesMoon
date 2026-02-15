@@ -1,4 +1,4 @@
-# 🌙 Hi, I'm Joaquín — Junior Full-Stack Developer (Backend-Oriented)
+# 🌙 Hi, I'm Joaquín - Junior Full-Stack Developer (Backend-Oriented)
 
 I'm a junior full-stack developer from Chile, primarily focused on backend development with **Java and Spring Boot**, with experience building full-stack web applications using **MySQL, HTML, CSS, and JavaScript**.
 
@@ -31,7 +31,7 @@ I enjoy building complete solutions, but I naturally gravitate toward understand
 * Participated in database structure planning
 * Repository: *coming soon*
     
-### 🔹 Isaac Backup Manager — Personal Project (WIP)
+### 🔹 Isaac Backup Manager - Personal Project (WIP)
 
 *Java CLI application*
 
