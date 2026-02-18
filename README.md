@@ -31,14 +31,14 @@ I enjoy building complete solutions, but I naturally gravitate toward understand
 * Participated in database structure planning
 * Repository: *coming soon*
     
-### 🔹 Isaac Backup Manager - Personal Project (WIP)
+### 🔹 Isaac Backup Manager - Personal Project (Java)
 
 *Java CLI application*
 
-* CLI tool to manage and automate backup processes
+* CLI tool to manage and ease backup processes
 * Focused on file system operations, IO handling, and program structure
 * Built using plain Java (no frameworks) to strengthen core language fundamentals
-* Work in progress
+* Repository: [https://github.com/HecatesMoon/TBoIR-Backup-Manager](https://github.com/HecatesMoon/TBoIR-Backup-Manager)
 
 ### 🔹 Learning Projects
 
