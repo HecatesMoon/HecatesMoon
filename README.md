@@ -29,7 +29,7 @@ I enjoy building complete solutions, but I naturally gravitate toward understand
 * Worked with controllers, services, JSP views, and relational databases
 * Helped organize the team using Git branching, pull requests and Trello
 * Participated in database structure planning
-* Repository: *coming soon*
+* Repository: [https://github.com/HecatesMoon/Proyecto-Glicemia](https://github.com/HecatesMoon/Proyecto-Glicemia)
     
 ### 🔹 Isaac Backup Manager - Personal Project (Java)
 
