@@ -21,6 +21,21 @@ under the hood: data flow, application structure, security.
 
 ---
 
+## 💼 Freelance
+
+### 🔹 drfranciscorodriguez.cl — Medical Practice Website
+*Freelance maintenance and development — active client (2026)*
+
+- Took over an existing Bootstrap/PHP codebase and refactored it:
+  cleaned unused code, fixed broken functionality, improved structure
+- Built a contact page with PHP form integrated to email via Brevo API
+- Added SEO with JSON-LD schema.org markup
+- Optimized images and improved mobile layout
+- Configured DNS, DMARC, and cPanel email forwarding
+- Site: [drfranciscorodriguez.cl](https://drfranciscorodriguez.cl)
+
+---
+
 ## 📌 Projects
 
 ### 🔹 Debt Manager API - Personal Project (Backend)
