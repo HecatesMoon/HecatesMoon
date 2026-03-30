@@ -1,69 +1,61 @@
-# 🌙 Hi, I'm Joaquín - Junior Full-Stack Developer (Backend-Oriented)
+# 🌙 Hi, I'm Joaquín - Junior Developer (Backend-Oriented)
 
-I'm a junior full-stack developer from Chile, primarily focused on backend development with **Java and Spring Boot**, with experience building full-stack web applications using **MySQL, HTML, CSS, and JavaScript**.
+Junior developer from Chile focused on backend with **Java and Spring Boot**.
+I build REST APIs, work with relational databases, and occasionally take
+projects full-stack. Strong preference for understanding how things work
+under the hood: data flow, application structure, security.
 
-I enjoy building complete solutions, but I naturally gravitate toward understanding how things work behind the scenes: application structure, data flow, and backend logic.
+**English C2** · Open to remote work
 
 ---
 
 ## 🔧 Tech Stack
 
-**Backend:** Java · Spring Boot · Spring MVC · JPA/Hibernate · JSP
+**Backend:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · REST APIs
 
 **Frontend:** HTML · CSS · JavaScript
 
-**Database:** MySQL
+**Database:** MySQL · PostgreSQL
 
-**Tools:** Git · GitHub · Trello · VS Code
-
-**Other:** API integration (Google Gemini API) · MVC architectural pattern
+**Other:** PHP · Brevo API · Git · GitHub · Maven
 
 ---
 
 ## 📌 Projects
 
-### 🔹 **GlicemIA - Bootcamp Final Project (Full-Stack / Backend role)**
+### 🔹 Debt Manager API - Personal Project (Backend)
+*Spring Boot REST API for managing personal debts with JWT authentication*
 
-* Built an **AI-powered chatbot** using the Gemini API
-* Designed and developed backend logic using Java and Spring Boot
-* Worked with controllers, services, JSP views, and relational databases
-* Helped organize the team using Git branching, pull requests and Trello
-* Participated in database structure planning
-* Repository: [https://github.com/HecatesMoon/Proyecto-Glicemia](https://github.com/HecatesMoon/Proyecto-Glicemia)
-    
+- Full JWT auth flow: register, login, protected endpoints
+- Spring Security configuration with custom filters
+- PostgreSQL with JPA/Hibernate and full CRUD for debt entries
+- Input validation with custom rules (password strength, future dates, positive amounts)
+- Centralized exception handling with custom error responses
+- Repository: [debt-manager-api](https://github.com/HecatesMoon/debt-manager-api)
+
+### 🔹 GlicemIA - Bootcamp Final Project (Full-Stack / Backend role)
+*AI-powered app for blood glucose tracking*
+
+- Built the chatbot module integrating the Gemini API
+- Developed backend logic: controllers, services, and relational database
+- Coordinated backend workflow: Git branching, pull requests, Trello
+- Repository: [Proyecto-Glicemia](https://github.com/HecatesMoon/Proyecto-Glicemia)
+
 ### 🔹 Isaac Backup Manager - Personal Project (Java)
-
 *Java CLI application*
 
-* CLI tool to manage and ease backup processes
-* Focused on file system operations, IO handling, and program structure
-* Built using plain Java (no frameworks) to strengthen core language fundamentals
-* Repository: [https://github.com/HecatesMoon/TBoIR-Backup-Manager](https://github.com/HecatesMoon/TBoIR-Backup-Manager)
-
-### 🔹 Learning Projects
-
-Small exercises and mini-apps to practice:
-
-* HTML & CSS layouts
-* JavaScript DOM manipulation
-* Backend fundamentals with Java and Spring Boot
-* API consumption and integration
+- CLI tool to manage and ease backup processes
+- Focused on file system operations, IO handling, and program structure
+- Built using plain Java (no frameworks) to strengthen core language fundamentals
+- Repository: [TBoIR-Backup-Manager](https://github.com/HecatesMoon/TBoIR-Backup-Manager)
 
 ---
 
 ## 🎯 Currently Working On
 
-* Strengthening backend development with **Java + Spring Boot**
-* Building personal projects to reinforce fundamentals
-* Improving frontend fundamentals to build full-stack apps
-* Learning **React**, **Docker**, basic **CI/CD**, and **AWS (basics)**
-
----
-
-## 🌱 My Focus
-
-I enjoy exploring core concepts, questioning design decisions, and learning why things work the way they do.
-My goal is to grow into a solid full-stack developer with a strong backend foundation, writing clear, maintainable code that solves real problems.
+- Deepening backend fundamentals through personal projects
+- Expanding into frontend to build full-stack apps
+- Exploring new technologies as project needs arise
 
 ---
 
@@ -72,3 +64,6 @@ My goal is to grow into a solid full-stack developer with a strong backend found
 **LinkedIn:** [https://www.linkedin.com/in/joaquin-araya-dev/](https://www.linkedin.com/in/joaquin-araya-dev/)
 
 **Email:** [joaquin.arayavega@gmail.com](mailto:joaquin.arayavega@gmail.com)
+
+
+
